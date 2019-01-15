@@ -15,6 +15,8 @@ rosbridgeを使いパブリッシャ(count_py)からパブリッシュされた�
 * OS
   * Ubuntu16.04.5(VirtualBox上で可)
 
+* ROS kinetic kame
+
 
 # Install
 ```
