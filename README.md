@@ -23,8 +23,14 @@ $ git clone https://github.com/Yu0097/ros-robosys2018.git
 
 # Usage
 ```
-$ cd catkin_ws/
+$ roslaunch ros-robosys2018 ros-robosys2018.launch
 ```
+IPアドレスの確認
+```
+$ ip a
+```
+
+
 
 # License
 GNU General Public License v3.0
