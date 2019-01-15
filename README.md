@@ -7,6 +7,7 @@ PCからweb上にデータ（数値）を送り、表示する。
 rosbridgeを使いパブリッシャ(count_py)からパブリッシュされた数値をweb上に送り、表示する。
 
 # Demo
+https://youtu.be/y3gYapzfpfM
 
 
 # Requirement
